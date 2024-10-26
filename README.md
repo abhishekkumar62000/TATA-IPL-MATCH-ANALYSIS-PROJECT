@@ -1,6 +1,11 @@
 # TATA-IPL-MATCH-ANALYSIS-PROJECT
 TATA IPL MATCH ANALYSIS PROJECT
 
+![dezxlwr-349fb8f9-71a0-47e7-b996-bb1a03692db8](https://github.com/user-attachments/assets/f10bcba6-9af6-4b97-a087-dae6d09087c3)
+![ipl png](https://github.com/user-attachments/assets/b126d9ce-8f7d-4d33-9e29-b38b6192db50)
+
+
+
 # 🏏 TATA IPL Match Analysis Project
 
 Welcome to the **TATA IPL Match Analysis Project**! This project aims to analyze and predict outcomes of IPL matches using Python, Machine Learning, Exploratory Data Analysis (EDA), and Feature Engineering.
